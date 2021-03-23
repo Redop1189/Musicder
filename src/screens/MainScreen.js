@@ -21,7 +21,7 @@ export default class MainScreen extends React.Component {
             <div>
                 <h1 className="heading">Hello There 👋</h1>
                 <h2 className="headingbelow">Type what do you want to Listen & Press Search</h2>
-                <h2 className="headingbelow">Search nay Song from JioSaavn</h2>
+                <h2 className="headingbelow">Search any Song from JioSaavn</h2>
                 <div className="formdivt">
                     <form onSubmit={this.mySubmitHandler}>
                         <div className="inner-form">
